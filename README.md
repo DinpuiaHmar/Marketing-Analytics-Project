@@ -1,5 +1,4 @@
 # Marketing-Analytics-Project
-### README: Marketing Dataset Project
 
 ---
 

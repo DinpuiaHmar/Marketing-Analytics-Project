@@ -126,22 +126,6 @@ The project leverages AI and data analytics techniques to analyze customer demog
 
 ---
 
-### **How to Use This Repository**  
-
-1. **Preprocessing Script:**  
-   - Load and preprocess the dataset using `data_preprocessing.py`.  
-
-2. **Clustering:**  
-   - Run `kmeans_clustering.py` to generate customer segments.  
-
-3. **ANOVA & Regression:**  
-   - Use `analysis.py` for statistical testing and regression insights.  
-
-4. **Classification Models:**  
-   - Run `classification_models.py` to predict loyalty membership.  
-
----
-
 ### **Contact Information**  
 
 For queries or contributions, reach out to:  
